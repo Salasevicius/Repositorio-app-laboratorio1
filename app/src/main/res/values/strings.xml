@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comparador</string>
+    <string name="edit_text1">Elemento 1</string>
+    <string name="edit_text2">Elemento 2</string>
+    <string name="button_compare">Comparar</string>
+    <string name="text_view">Resultado</string>
+</resources>
